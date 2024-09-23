@@ -8,6 +8,6 @@ This webpage showcases PGDAV College, one of the oldest constituent colleges of 
 - **Personal Touch:** An "About Me" section sharing my experiences as a B.Com student.
 
 ## Webpage URL
-You can view the webpage <a href="(https://arjunmalpani.github.io/COLLEGE-WEBSITE)" target="_blank">here</a>.
+You can view the webpage <a href="https://arjunmalpani.github.io/COLLEGE-WEBSITE" target="_blank">here</a>.
 
 This project serves as an informative resource for prospective students and a reflection of my college journey.
